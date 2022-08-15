@@ -1,1 +1,1 @@
-# funnysmpmod
+# Funny SMP Mod
